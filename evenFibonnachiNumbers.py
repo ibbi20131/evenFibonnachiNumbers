@@ -8,4 +8,3 @@ def evenFibonnachiNumbers(max):
         if i%2 == 0:
             count = count+i
     return(count)
-print(evenFibonnachiNumbers(33))
